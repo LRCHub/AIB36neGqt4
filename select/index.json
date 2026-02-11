@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "繰り返す収穫",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-11T00:54:27.852072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "繰り返す収穫",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_繰り返す収穫_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "繰り返す収穫",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_繰り返す収穫_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "繰り返す収穫 - Crop",
+      "artist": "ずっと真夜中でいいのに。 - ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_繰り返す収穫_-_Crop_ずっと真夜中でいいのに。_-_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "繰り返す収穫 = Crop",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_繰り返す収穫_=_Crop_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "繰り返す収穫 - Crop",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_繰り返す収穫_-_Crop_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crop (繰り返す収穫)",
+      "artist": "Zutto Mayonaka de Iinoni. (ずっと真夜中でいいのに。)",
+      "has_synced": false,
+      "path": "select/06_Crop_(繰り返す収穫)_Zutto_Mayonaka_de_Iinoni._(ずっと真夜中でいいのに。).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "繰り返す収穫",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_繰り返す収穫_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
